@@ -30,7 +30,8 @@ npm run dev
 ```
 Database Tables:
 
-![image](https://github.com/user-attachments/assets/cfbef1ea-dcaa-426e-a6fe-7db25253ee2f)
+![image](https://github.com/user-attachments/assets/b0988e04-8057-4382-9369-9628468110aa)
+
 
 
 Env file:
