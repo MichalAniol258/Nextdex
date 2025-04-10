@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/20e44bb2-bf97-4f87-a055-5d9d068f48fd)# Nextdex
+# Nextdex
 
 **Nextdex** is an AI-powered Pokédex built with **Next.js**, **Gemini API**, and **Supabase**. It allows users to explore the Pokémon universe using natural language queries, backed by a structured and scalable database.
 
